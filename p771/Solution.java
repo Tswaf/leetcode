@@ -1,5 +1,3 @@
-package p771_Jewels_and_Stones;
-
 class Solution {
     public int numJewelsInStones(String J, String S) {
         boolean[] letterMap = new boolean[52];
